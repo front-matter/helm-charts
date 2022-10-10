@@ -3,6 +3,25 @@ entries:
   invenio-rdm:
   - apiVersion: v2
     appVersion: v4.0.0
+    created: "2022-10-10T18:21:54.445021044Z"
+    description: The turn-key research data management repository
+    digest: 6e44cc660d03f8690e63bad17ce89ccbcf9d27e46c132d5210fc421cd41832a5
+    home: https://invenio-software.org/products/rdm/
+    icon: https://inveniosoftware.org/static/img/logo-invenio-white.svg
+    keywords:
+    - digital-repository
+    - institutional-repository
+    - multimedia-library
+    - multimedia-repository
+    name: invenio-rdm
+    sources:
+    - https://github.com/inveniosoftware/invenio-app-rdm
+    type: application
+    urls:
+    - https://github.com/front-matter/helm-charts/releases/download/invenio-rdm-0.3.12/invenio-rdm-0.3.12.tgz
+    version: 0.3.12
+  - apiVersion: v2
+    appVersion: v4.0.0
     created: "2022-10-10T17:50:03.292819211Z"
     description: The turn-key research data management repository
     digest: 3d82904e31488939ce7d0b1a42650fb95fa2c0543b47da3266f54c903abe7c61
@@ -40,4 +59,4 @@ entries:
     urls:
     - https://github.com/front-matter/helm-charts/releases/download/inveniordm-0.3.11/inveniordm-0.3.11.tgz
     version: 0.3.11
-generated: "2022-10-10T17:50:03.292823511Z"
+generated: "2022-10-10T18:21:54.445030444Z"
