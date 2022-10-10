@@ -1,5 +1,5 @@
 apiVersion: v2
-name: inveniordm
+name: invenio-rdm
 version: 0.3.11
 appVersion: "v4.0.0"
 description: The turn-key research data management repository
