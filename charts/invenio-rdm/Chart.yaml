@@ -1,0 +1,28 @@
+apiVersion: v2
+name: inveniordm
+version: 0.3.11
+appVersion: "v4.0.0"
+description: The turn-key research data management repository
+type: application
+keywords:
+  - digital-repository
+  - institutional-repository
+  - multimedia-library
+  - multimedia-repository
+home: https://invenio-software.org/products/rdm/
+icon: https://inveniosoftware.org/static/img/logo-invenio-white.svg
+sources:
+  - https://github.com/inveniosoftware/invenio-app-rdm
+# dependencies:
+# - name: elasticsearch
+#   version: "~7.12.1"
+#   repository: https://helm.elastic.co
+# - name: postgresql
+#   version: "~10.4.8"
+#   repository: https://charts.bitnami.com/bitnami
+# - name: redis
+#   version: "~14.3.2"
+#   repository: https://charts.bitnami.com/bitnami
+# - name: rabbitmq
+#   version: "~8.15.2"
+#   repository: https://charts.bitnami.com/bitnami
