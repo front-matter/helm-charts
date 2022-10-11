@@ -1,2 +1,2 @@
-# helm-charts
-Helm charts used by the Front Matter organization
+# Front Matter Helm Charts
+Helm charts provided by the Front Matter organization
